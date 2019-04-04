@@ -7,4 +7,4 @@ chomp $input1;
 chomp $input2;
 
 $input1 = $input1+$input2;
-print "the result is: $input1\n";
+print "The result is: $input1\n";
